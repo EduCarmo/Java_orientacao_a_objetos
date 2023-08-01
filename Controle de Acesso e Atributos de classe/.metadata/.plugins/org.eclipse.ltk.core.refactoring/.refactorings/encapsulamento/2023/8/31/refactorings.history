@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;encapsulamento.visibilidade&apos; to &apos;Visibilidade&apos;&#x0D;&#x0A;- Original project: &apos;encapsulamento&apos;&#x0D;&#x0A;- Original element: &apos;encapsulamento.visibilidade&apos;&#x0D;&#x0A;- Renamed element: &apos;encapsulamento.Visibilidade&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;visibilidade&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;encapsulamento{visibilidade.java[visibilidade" matchStrategy="1" name="Visibilidade" qualified="false" references="true" similarDeclarations="false" stamp="1690900897442" textual="false" version="1.0"/>
+</session>

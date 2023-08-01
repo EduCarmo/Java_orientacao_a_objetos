@@ -1,0 +1,14 @@
+package construtor;
+
+public class principal {
+
+	public static void main(String[] args) {
+		Construtor c1 = new Construtor();
+		
+		
+		
+		
+
+	}
+
+}

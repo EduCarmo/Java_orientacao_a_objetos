@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\Família\Desktop\desenvolvimento full stack\JAVA\JAVA ORIENTAÇÃO A OBJETOS\Controle de Acesso e Atributos de classe\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3278242645.index
+228123580.index
+4162747412.index

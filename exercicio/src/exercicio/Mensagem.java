@@ -1,0 +1,18 @@
+package exercicio;
+
+public class Mensagem {
+	private int numero;
+	
+	public  Mensagem() {
+		System.out.println("Olá Mundo");
+	}
+	
+	public Mensagem(int v1,int v2) {
+		this.numero = v1+ v2;
+	}
+	
+	public int getNumero() {
+		return numero;
+	}
+}
+

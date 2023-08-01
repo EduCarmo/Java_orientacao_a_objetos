@@ -1,0 +1,7 @@
+package conta_bancaria;
+
+public class Conta {
+	String nome_cliente;
+	int numero_conta;
+	int saldo;
+}

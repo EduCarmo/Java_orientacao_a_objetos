@@ -1,0 +1,19 @@
+package primeira_classe;
+
+public class principal {
+
+	public static void main(String[] args) {
+		Animal animal;
+		animal = new Animal();
+		
+		animal.idade = 15;
+		animal.nome = "Eduardo";
+		animal.especie = "Humano";
+		animal.idendificador = 567;
+		
+		System.out.println("Idade: " + animal.idade + " Nome: " + animal.nome);
+		
+		
+	}
+
+}

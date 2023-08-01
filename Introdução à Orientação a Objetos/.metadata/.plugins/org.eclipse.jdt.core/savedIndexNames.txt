@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Família\Desktop\desenvolvimento full stack\JAVA\JAVA ORIENTAÇÃO A OBJETOS\Introdução à Orientação a Objetos\.metadata\.plugins\org.eclipse.jdt.core
+3503340158.index
+4163541083.index
+1865797976.index

@@ -1,0 +1,14 @@
+package primeira_classe;
+
+public class Animal {
+	String nome;
+	int idendificador;
+	int idade;
+	String especie;
+	
+	void modificaidade(int novaidade) {
+		this.idade = novaidade;
+	}
+}
+
+

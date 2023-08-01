@@ -1,0 +1,7 @@
+package construtor;
+
+public class Construtor {
+	public Construtor() {
+		System.out.println("Essa é uma menssagem do construtor");
+	}
+}

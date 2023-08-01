@@ -1,0 +1,32 @@
+package primeira_classe;
+
+import java.util.Scanner;
+
+public class principal {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		Animal animal;
+		animal = new Animal();
+		
+		System.out.println("Digite a idade do animal");
+		animal.idade = input.nextInt();
+		
+		System.out.println("Idade do animal: " + animal.idade);
+		
+		/*animal.idade = 15;
+		animal.nome = "Eduardo";
+		animal.especie = "Humano";
+		animal.idendificador = 567;
+		
+		System.out.println("Idade: " + animal.idade + " Nome: " + animal.nome);
+		
+		Animal a2;
+		a2 = new Animal();
+		a2.idade = 18;
+		
+		System.out.println("Idade: " + a2.idade + " Idade do primeiro animal " + animal.idade);*/
+	}
+
+}

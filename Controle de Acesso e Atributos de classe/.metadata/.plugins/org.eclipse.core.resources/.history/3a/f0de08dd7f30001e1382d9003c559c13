@@ -1,0 +1,13 @@
+package exercicio;
+
+public class principal {
+
+	public static void main(String[] args) {
+		Mensagem text = new Mensagem();
+		Mensagem somar = new Mensagem(5, 5);
+		
+		System.out.println("A soma é " + somar.getNumero());
+
+	}
+
+}
